@@ -1,3 +1,8 @@
+""" 
+This program connects to Twitter to get the last 10 user-defined tweets. 
+It then finds how many followers each one has and multiplies it by the number of words 
+that appear in each user's tweets and shows which of the two users has the larger product. 
+"""
 import tweepy
 
 consumer_key = "Y74fK1vUZa1OUNy3utdpGTrBf"
