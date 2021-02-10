@@ -1,3 +1,6 @@
+
+#This program plays tic tac toe with the user in a 3 * 3 square.
+
 import random 
 board=[' ' for x in range(10)]
 
