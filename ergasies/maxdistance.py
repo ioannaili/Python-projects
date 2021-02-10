@@ -1,6 +1,6 @@
 """
-This is a function called maxSequence that takes a list as input and returns the sublist (consecutive items in the list) that has the maximum sum.
-Example: maxSequence ([- 2, 1, -3, 4, -1, 2, 1, -5, 4]) returns 6: [4, -1, 2, 1]
+This is a function called maxDistance that takes as input a list of distances and a positive integer.
+The function returns the largest sum of items in the list so that they do not exceed the integer passed as the second argument.
 """
 def maxDistance(a,num):
     
